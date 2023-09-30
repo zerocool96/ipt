@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/utv.jpg" group-title="Tamil-Local", UTV Tamil
+http://live.notvstream.in/hls/utv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Tamil-Music", 3 TAMIL HD
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Tamil-Local", 7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local", Blue Sky media
+http://198.144.149.206:8080/NOTV/BLUESKYMEDIA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="http://www.jawaharchannel.in/SEPERATE%20FOLDER/01%20HEADER/Leaf%20Logo.png" group-title="Tamil-Local-HD", JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local", Rasi Tv
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/chunklist_w323305535.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tamilvision.tv/Images/logo.png" group-title="Tamil-Local-HD", TAMIL VISION TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tavapi.inditechman.com/extras/images/89.png" group-title="Tamil-Local-HD", Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+
+#EXTINF:-1 group-title="Tamil-Local-HD", MAYA TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+
+#EXTINF:-1 group-title="Tamil-Local-HD", TAMIL PLUS
+http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
+
+#EXTINF:-1 group-title="Tamil-Local-HD", KVM
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
+
+#EXTINF:-1 group-title="Tamil-Local-HD", JEEVAN TV
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title="Tamil-Local-HD", MASS TAMIL HD TV
+http://tv2.massstream.net/Masstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837" group-title="Tamil-Local-HD", AMMA TV LOCAL
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06zwyNI-I6ez-vk23NPJfoTYfhyJEAJzhqczjYnon5js56gsQb4Hnm2Jw_t4LTY5S7M" group-title="Tamil-Local", Makkal TV
+http://strapi.makkaltv.org/hls/makkaltv1/master1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQCY64Z.jpg" group-title="Tamil-Local", Big Tunes Music
+http://live.titanstream.in/titan/ukturbo123/playlist.m3u8
