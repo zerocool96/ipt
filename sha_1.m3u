@@ -404,3 +404,12 @@ http://nextgeninfotech.ddns.net:8080/red/red.m3u8
 
 #EXTINF:-1 group-title="Tamil-News",Polimer News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696108697/ei/OTwYZfT_I4iO1PIPuYGO0Ag/ip/92.205.15.128/id/goWnTX_IXZU.2/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9FrqsbudgowIsxdLeOlPMzBGrgTvXqSVmvPwQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBfw-cKzHkxmx_JiyeDm3ILWteJUe_QeURmcaqoIaeTcCIQCt8DDeOsULQ58HUEO-jTMCO9bdVzuUQN3cGEnUutXw0A%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 group-title="Tamil-News", SUN News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696109176/ei/GD4YZeRtioj6BuaOt_AE/ip/92.205.15.128/id/2ywxK3HC4iA.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxVNbCnoJzzuWzZH01qaAlW9R13rgVuwyKNWyQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALGyuQ8DBz2BBE04MW84W8H_YXCD98hF-5DbQVbgADMxAiBhqQ0f4tkJkt_fxBh1gzFn7HUqer2PthNszHzuj9PBkQ%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Tamil-News", News Tamil
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696109258/ei/aj4YZcyfJ-CQ1PIPx5qRsAY/ip/92.205.15.128/id/VmJXsd3pIGM.1/source/yt_live_broadcast/requiressl/yes/tx/51018864/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2apD14XjbljYg20vHyqC1RCdOi9WaVCr4MbOg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHIeDqJYdBvW20CncVd5uj6-7i3yI0pDAWVAIYO5T2p8CICbGRFSrlCoKQTNL-aDt5jv9ITs9WrCXU3JK1f7Wrqhp/file/index.m3u8
