@@ -18,7 +18,7 @@ http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://198.144.149.206:8080/NOTV/BLUESKYMEDIA/index.m3u8?token=GTR
 
-#EXTINF:0 group-title="Tamil-Local-HD" tvg-logo="https://shorturl.at/z1456", JAWAHAR TV
+#EXTINF:0 group-title="Tamil-Local-HD" tvg-logo="http://bit.ly/3rnQ9Lm", JAWAHAR TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 
