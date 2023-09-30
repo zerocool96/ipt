@@ -3,7 +3,6 @@
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/utv.jpg" group-title="Tamil-Local",UTV Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-
 http://live.notvstream.in/hls/utv.m3u8
 
 #EXTINF:0 group-title="Tamil-Music" tvg-logo="https://i.imgur.com/WfAU7pB.png", 3 TAMIL HD
@@ -14,12 +13,12 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Tamil-Local",7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local",Blue Sky media
+#EXTINF:0 tvg-logo="https://shorturl.at/tuFO7" group-title="Tamil-Local",Blue Sky media
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://198.144.149.206:8080/NOTV/BLUESKYMEDIA/index.m3u8?token=GTR
 
-#EXTINF:0 group-title="Tamil-Local-HD" tvg-logo="http://www.jawaharchannel.in/SEPERATE%20FOLDER/01%20HEADER/Leaf%20Logo.png", JAWAHAR TV
+#EXTINF:0 group-title="Tamil-Local-HD" tvg-logo="https://shorturl.at/z1456", JAWAHAR TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 
