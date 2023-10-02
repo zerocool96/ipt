@@ -402,16 +402,23 @@ http://account26.livebox.co.in/kinghls/live.m3u8
 #EXTINF:-1 group-title="Malayalam-Local",Maa Tv
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
 
-#EXTINF:-1 group-title="Tamil-News",Polimer News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696189669/ei/hXgZZdyBBbG76dsPjsaPwAY/ip/92.205.15.128/id/YpyhlMUV5bA.3/source/yt_live_broadcast/requiressl/yes/tx/24561249/txs/24561249%2C24561250%2C24561251/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_LUXs7wqOQS8M9biJwsibT7eUzfUhroWO6RH7v_YAIU1R4r/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgGAmdvvJYTeSEMFNqmkhoL7Z2zYGQZ0nSeJk5biRxze0CH170Azps6H_B6QwlAXKzs0rV0xz9uLPuheVU3uZyVzI%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKawboS-hjxUswWsl96XftTuRZOpVEdrCytV9mCtzkk=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News",Polimer News
+https://sh-worker.hellocool000.workers.dev/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
-#EXTINF:-1 group-title="Tamil-News", SUN News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696189429/ei/lXcZZdigN4mW-gbCk66IAg/ip/92.205.15.128/id/2ywxK3HC4iA.4/source/yt_live_broadcast/requiressl/yes/tx/24554065/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwmovOgU0ipwqfG8ETMUC_yq3DI-0CdIbmA_6A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIgiF4HVYAsiwjJ2LBlQRQ31ZAsv2vIdx6Tm7f0EZ_u0CIQCqDSdwQvYf68ziQFNz4YPIl9xpwU06I4BMjrHfZLV_nw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZkR1wnKbj_7yMdzKPCt6UAocoybP34RdqnhRBWpA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Sun News
+https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News Tamil
+https://sh-worker.hellocool000.workers.dev/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5ZtoCHyWV95KdgDkYjVfhC1TCdZjHHE8_ar96Uvd8ulPp9rPbKhyds_ULHZUTdR27_XMdGbcLPE=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Puthiyathalaimurai TV
+https://sh-worker.hellocool000.workers.dev/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
 
-#EXTINF:-1 group-title="Tamil-News", News Tamil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696189921/ei/gXkZZYa8GbeB6dsPjMex6AQ/ip/92.205.15.128/id/VmJXsd3pIGM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyRIYuShMna-mIWMRRKZqUHinjKzFAxosOqYgA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfuQMHAAhtqAwjN7nEu9W36NGLVg7y0Md-odIrsGBGdQCICpMga3EVwz-Ct7BMfa_Ewh87ubCtUBGeVY4P0SknYeP/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKauEK9UpvmGyuMA4jlsjgJhAXWdAzDwBE7EDvhsnHE=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Thanthi TV
+https://sh-worker.hellocool000.workers.dev/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKa6NYjSme-wkTH88hAgU1_lF8iWSQ8tJ9GaAeVEQw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News18 Tamilnadu
+https://sh-worker.hellocool000.workers.dev/channel/UCat88i6_rELqI_prwvjspRA.m3u8
 
 
 #EXTINF:-1 group-title="Dynamic ",star
