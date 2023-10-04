@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/utv.jpg" group-title="Tamil-Local",UTV Tamil
 http://live.notvstream.in/hls/utv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="Tamil-Local-HD",Colors Tamil (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:0 group-title="Tamil-Music" tvg-logo="https://i.imgur.com/WfAU7pB.png", 3 TAMIL HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
