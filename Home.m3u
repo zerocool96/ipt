@@ -75,6 +75,9 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Tamil-Local",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="Tamil-Local-HD",Colors Tamil (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/utv.jpg" group-title="Tamil-Local",UTV Tamil
 http://live.notvstream.in/hls/utv.m3u8
 
