@@ -5,6 +5,9 @@ https://sh-worker.hellocool000.workers.dev/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZkR1wnKbj_7yMdzKPCt6UAocoybP34RdqnhRBWpA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Sun News
 https://sh-worker.hellocool000.workers.dev/channel/d.m3u8
+https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+https://sh-worker.hellocool000.workers.dev/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+https://sh-worker.hellocool000.workers.dev/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News Tamil
 https://sh-worker.hellocool000.workers.dev/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
@@ -72,11 +75,9 @@ https://sh-worker.hellocool000.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Islamic-Live",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islamic-Live",Medina Live (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islamic-Live",Medina Live
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Islamic-Live",Nabawiyah TV (Medina) (720p) [Not 24/7]
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://sh-worker.hellocool000.workers.dev/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Islamic-Live",The Islamic Network (480p) [Not 24/7]
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
@@ -89,12 +90,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Islamic-Live",Alquran (1080p)
 https://ktv.imamhussain.org/stream/hls/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="Islamic-Live",Sharjah TV (1080p)
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Islamic-Live",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Tamil-Local",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
@@ -273,4 +268,3 @@ http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam-Local",Maa Tv
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
-
