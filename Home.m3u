@@ -4,7 +4,7 @@
 https://sh-worker.hellocool000.workers.dev/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZkR1wnKbj_7yMdzKPCt6UAocoybP34RdqnhRBWpA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Sun News
-https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+https://sh-worker.hellocool000.workers.dev/channel/d.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News Tamil
 https://sh-worker.hellocool000.workers.dev/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
@@ -17,6 +17,30 @@ https://sh-worker.hellocool000.workers.dev/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKa6NYjSme-wkTH88hAgU1_lF8iWSQ8tJ9GaAeVEQw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News18 Tamilnadu
 https://sh-worker.hellocool000.workers.dev/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYtAfUsHOrWTsVGDMZ93FBSLVR44Uxs8FyhDO-I=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News7 Tamil
+https://sh-worker.hellocool000.workers.dev/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ekQrIaO.png" group-title="Tamil-News",Captain News
+https://ythls.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WLWD5p5.png" group-title="Tamil-News",Jaya Plus
+https://ythls.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pgp3EXM.png" group-title="Tamil-News",Kalaignar Seithikal
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="Tamil-News",Malaimurasu
+https://ythls.onrender.com/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjlbR4o.png" group-title="Tamil-News",News7 Tamil
+https://ythls.onrender.com/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="Tamil-News",News J
+https://ythls.onrender.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyFHoh5.png" group-title="Tamil-News",Raj News Tamil
+https://ythls.onrender.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News",Zee tamil news
 https://ythls.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
