@@ -23,14 +23,8 @@ https://sh-worker.hellocool000.workers.dev/channel/UCat88i6_rELqI_prwvjspRA.m3u8
 https://sh-worker.hellocool000.workers.dev/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 https://ythls.onrender.com/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ekQrIaO.png" group-title="Tamil-News",Captain News
-https://ythls.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WLWD5p5.png" group-title="Tamil-News",Jaya Plus
 https://ythls.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pgp3EXM.png" group-title="Tamil-News",Kalaignar Seithikal
-http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="Tamil-News",Malaimurasu
 https://ythls.onrender.com/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
@@ -58,6 +52,12 @@ https://sh-worker.hellocool000.workers.dev/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY07JKVcYIL3jTd67m6-NHF0NsD6Awpz7m_Phshvw=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Mathrubhumi News
 https://sh-worker.hellocool000.workers.dev/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/rzyKL6dUB8zhr7FTBNEJjbCnwPmDWk7ieICy7_AM3bW9kLPsVDn2TDCzt76HtKU__28paTNG=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Amrita News
+https://sh-worker.hellocool000.workers.dev/channel/UC25I9JS-9neSmIZE_loSZ4g.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/2RdLJIfwsXZkrQhkcjxEcWKcSpBrpm7paFwBdK6v-GTFSEOGcykFIbcdwpen0eGtkJLKaeuK7x8=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Reporter TV
+https://sh-worker.hellocool000.workers.dev/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaXc3eVz51m9Vo5Xu5IoVaBWJWPZjG7OGGK522U=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",News18 Kerala 
 https://sh-worker.hellocool000.workers.dev/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
