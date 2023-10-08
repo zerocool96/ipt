@@ -4,8 +4,8 @@
 https://sh-worker.hellocool000.workers.dev/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZkR1wnKbj_7yMdzKPCt6UAocoybP34RdqnhRBWpA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Sun News
-https://sh-worker.hellocool000.workers.dev/channel/d.m3u8
-https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+https://sh-worker.hellocool000.workers.dev/channel/d.m3u8,
+https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8,
 https://sh-worker.hellocool000.workers.dev/channel/d.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News Tamil
@@ -247,8 +247,17 @@ http://shinestream.in:1935/anandamtv/svc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tm3Bdsn/Velavan-TV.png" group-title="Tamil-Local",Velavan TV
 https://server3.iptelevision.in/hls/dharapuram.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/15SYoZc_Ris_TrrUQcLNjWCXL4Py_xLruhVDVLCNlAewB5jUaT_YqGzyVaMDgmfyA3Jg=w240-h480-rw" group-title="Tamil-Local",SUBIN TV
+https://stream.sscloud7.com/hls/subintv.m3u8
+
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="Tamil-Local",Aarthi TV
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Tamil-Local",Tamilan
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7OFxT3hc31CM9V4RjfWMBOgKYURUCXOYnq1t9IfU4IdbvkOjVqWxvdei0KXoKKYbJQ=w240-h480-rw" group-title="Tamil-Local",Web TV
+https://account21.livebox.co.in/webadugatvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="Tamil-Local",Vasantham TV
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
