@@ -4,23 +4,19 @@
 https://sh-worker.hellocool000.workers.dev/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZkR1wnKbj_7yMdzKPCt6UAocoybP34RdqnhRBWpA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Sun News
-https://ythls.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News Tamil
-https://sh-worker.hellocool000.workers.dev/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5ZtoCHyWV95KdgDkYjVfhC1TCdZjHHE8_ar96Uvd8ulPp9rPbKhyds_ULHZUTdR27_XMdGbcLPE=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Puthiyathalaimurai TV
 https://sh-worker.hellocool000.workers.dev/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News Tamil
+https://sh-worker.hellocool000.workers.dev/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKauEK9UpvmGyuMA4jlsjgJhAXWdAzDwBE7EDvhsnHE=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Thanthi TV
 https://sh-worker.hellocool000.workers.dev/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKa6NYjSme-wkTH88hAgU1_lF8iWSQ8tJ9GaAeVEQw=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", News18 Tamilnadu
 https://sh-worker.hellocool000.workers.dev/channel/UCat88i6_rELqI_prwvjspRA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WLWD5p5.png" group-title="Tamil-News",Jaya Plus
-https://sh-worker.hellocool000.workers.dev/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="Tamil-News",Malaimurasu
 https://sh-worker.hellocool000.workers.dev/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
@@ -34,6 +30,9 @@ https://sh-worker.hellocool000.workers.dev/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News",Zee tamil news
 https://sh-worker.hellocool000.workers.dev/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WLWD5p5.png" group-title="Tamil-News",Jaya Plus
+https://sh-worker.hellocool000.workers.dev/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbjhEFJ1gSTjYfBjoWOEfqTX5k_Qcmdo6LM3f74ow=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Manorama News
 https://sh-worker.hellocool000.workers.dev/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
 
@@ -43,20 +42,23 @@ https://sh-worker.hellocool000.workers.dev/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/jLtUBolohoXYmDNg8HHjTjOXTph9YNZ1OJlz_I3_9P15fY9jGrVjg3wFX_v2fTCP6BLrV_r9dQ=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Kairali News
 https://sh-worker.hellocool000.workers.dev/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
 
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY07JKVcYIL3jTd67m6-NHF0NsD6Awpz7m_Phshvw=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Mathrubhumi News
+https://sh-worker.hellocool000.workers.dev/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
+
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",24 News
 https://sh-worker.hellocool000.workers.dev/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaYCYxit-13GEk7_WhJwcWd8cV1C0pHfFJ4CmHiYw=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Mediaone News
 https://sh-worker.hellocool000.workers.dev/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY07JKVcYIL3jTd67m6-NHF0NsD6Awpz7m_Phshvw=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Mathrubhumi News
-https://sh-worker.hellocool000.workers.dev/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
-
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/2RdLJIfwsXZkrQhkcjxEcWKcSpBrpm7paFwBdK6v-GTFSEOGcykFIbcdwpen0eGtkJLKaeuK7x8=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Reporter TV
 https://sh-worker.hellocool000.workers.dev/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaXc3eVz51m9Vo5Xu5IoVaBWJWPZjG7OGGK522U=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",News18 Kerala 
 https://sh-worker.hellocool000.workers.dev/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/_dbdglDqlSDiyTlJVB7IKBucllS5G-copbHfBQHXNfyPx3mgHzvf-cGnikfbSnl8LstCPNw7xQ=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Kerala Vision
+https://sh-worker.hellocool000.workers.dev/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/JQga_NKVrHU_nBDUuDJeiCCJrzAX0WJNJbqd6NJnNNyzlq1nMjVLDOAsfCi4Ipx_4H6_8eNKdw=s88-c-k-c0x00ffffff-no-rj" group-title="Islamic-Live",Sirajudheen Al Qasimi Live
 https://sh-worker.hellocool000.workers.dev/channel/UCAq0x1f3PVQ8oxnCE6HBQ-g.m3u8
