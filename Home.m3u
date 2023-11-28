@@ -30,9 +30,6 @@ https://sh-worker.hellocool000.workers.dev/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News",Zee tamil news
 https://sh-worker.hellocool000.workers.dev/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WLWD5p5.png" group-title="Tamil-News",Jaya Plus
-https://sh-worker.hellocool000.workers.dev/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
-
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbjhEFJ1gSTjYfBjoWOEfqTX5k_Qcmdo6LM3f74ow=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Manorama News
 https://sh-worker.hellocool000.workers.dev/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
 
@@ -60,17 +57,10 @@ https://sh-worker.hellocool000.workers.dev/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/_dbdglDqlSDiyTlJVB7IKBucllS5G-copbHfBQHXNfyPx3mgHzvf-cGnikfbSnl8LstCPNw7xQ=s176-c-k-c0x00ffffff-no-rj" group-title="Malayalam-News",Kerala Vision
 https://sh-worker.hellocool000.workers.dev/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/JQga_NKVrHU_nBDUuDJeiCCJrzAX0WJNJbqd6NJnNNyzlq1nMjVLDOAsfCi4Ipx_4H6_8eNKdw=s88-c-k-c0x00ffffff-no-rj" group-title="Islamic-Live",Sirajudheen Al Qasimi Live
-https://sh-worker.hellocool000.workers.dev/channel/UCAq0x1f3PVQ8oxnCE6HBQ-g.m3u8
-
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/-h9VhuMtk9nFjIF9S37bSNca7S25umeK20mfzvPxwu4e47hiEq5NdHDSWRJHKZON0Y5lMkRt6w8=s176-c-k-c0x00ffffff-no-rj" group-title="Islamic-Live",Makkah Live HD
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/-h9VhuMtk9nFjIF9S37bSNca7S25umeK20mfzvPxwu4e47hiEq5NdHDSWRJHKZON0Y5lMkRt6w8=s176-c-k-c0x00ffffff-no-rj" group-title="Islamic-Live",Makkah Live
 https://sh-worker.hellocool000.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Islamic-Live",Makkah TV (576p)
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islamic-Live",Medina Live
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/playlist.m3u8
 https://sh-worker.hellocool000.workers.dev/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Islamic-Live",The Islamic Network (480p) [Not 24/7]
@@ -81,9 +71,6 @@ https://sh-worker.hellocool000.workers.dev/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Islamic-Live",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Islamic-Live",Alquran (1080p)
-https://ktv.imamhussain.org/stream/hls/ch1.m3u8
 
 #EXTINF:0 tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Tamil-Local",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
@@ -100,32 +87,17 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:0 tvg-logo="http://bit.ly/3LMrS8v" group-title="Tamil-Local-HD",Chennai Tv
 http://notvstream.in/chennaiitv/chennaiitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837" group-title="Tamil-Local-HD",AMMA TV LOCAL
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Tamil-Local",7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local",Ezhil Tv
 http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 
-#EXTINF:0 group-title="Tamil-Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MKFWxDIFEocGOjWll97Ic2rsUDA9OaK6ZvjrdTrCWeE8BZoOZclCjXcmFoSGMbnNVrs=w240-h480-rw" group-title="Tamil-Local-HD",Nila TV Erode
 http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local",Leaf Tv
-http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
-
 #EXTINF:-1 group-title="Tamil-Local-HD",ABHINAYA TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-
-#EXTINF:0 group-title="Tamil-Local-HD" tvg-logo="http://bit.ly/3rnQ9Lm", JAWAHAR TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://shorturl.at/CEPW1" group-title="Tamil-Local",Sunstar Tv
-http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local",Rasi Tv
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/chunklist_w323305535.m3u8
@@ -136,12 +108,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tavapi.inditechman.com/extras/images/89.png" group-title="Tamil-Local-HD",Selfie TV
 http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
 
-#EXTINF:-1 group-title="Tamil-Local-HD",MAYA TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
-
-#EXTINF:-1 group-title="Tamil-Local-HD",TAMIL PLUS
-http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06zwyNI-I6ez-vk23NPJfoTYfhyJEAJzhqczjYnon2ypvPj0sNHx9xvFo794bHfVqw=w480-h960-rw" group-title="Tamil-Local",UTV Anandam
 http://shinestream.in:1935/utv/utv/playlist.m3u8
 
@@ -150,9 +116,6 @@ http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.
 
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/suriyantv.png" group-title="Tamil-Local",SURIYAN TV HD
 https://stream.sscloud7.com/hls/suriyantv.m3u8
-
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="Tamil-Local",Smart TV
-http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="Tamil-Local-HD",Sithiram TV
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -166,20 +129,12 @@ http://shinestream.in:1935/abitv/abitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ihWkYjK4GFttXJqXZn1QlwA0lyPPc6L5tydNyUBwPHjsoZiSFUIyq385QisdHqIJNivqtoRYoA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-Local",Ashok Tv
 http://stream.ashokaserver.in/hls/ashokatv2.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597734373_sana.png" group-title="Tamil-Local",Sana Tv HD
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="Tamil-Local",VANAVIL
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 https://server.iptelevision.in/hls/vanaviltv.m3u8
 
 #EXTINF:0 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" group-title="Tamil-Local",SMC Tv
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Cp0WGHWp_VQ7YAHmd6nhrw7smFDYGc34cy-4P1GtoEDQVXSyyvZX1QgoLO_n1_Gzr09s=w240-h480-rw" group-title="Tamil-Local-HD",Sharvesh 7 StarTV
-http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1636794785_poli.png" group-title="Tamil-Local",Polimer Channel
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
@@ -193,33 +148,14 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="Tamil-Local-HD",CTN
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
 
-#EXTINF:-1 group-title="Tamil-Local",polimer
-http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
-
-#EXTINF:-1 group-title="Tamil-Local",captain tv
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-
-#EXTINF:-1 group-title="Tamil-Local",svbc
-https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Tamil-Local",Sivan Tv
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wPylCqKTwngLazChwbiBkg85jC8r2oX0zS9NUzp4rJ7OrVmlpxiZHqj95w0HmLUMuvs=w240-h480-rwhttps://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil-Music",7smusic
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil-Music",IsaiAruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218" group-title="Tamil-Local",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="Tamil-Local-HD",Tamil Star TV
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JQrtjMZ/S-TV.png" group-title="Tamil-Local-HD",S TV
-http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="Tamil-Local",KUMARI TV
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
@@ -247,11 +183,3 @@ http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam-Local",Maa Tv
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
-
-#EXTINF:-1 group-title="Dynamic ",bblive
-https://video-weaver.maa01.hls.ttvnw.net/v1/playlist/CrwFcqJzsWB3Mmj2FZ6fuKOZB1psKo4cQkypC89uCaQnj7B8zMDuyKpQJbfOiM-_CC_3HxAfo3aHm3E0Dn3ae0mi-7ueKqE3C7kLa6CB67obQoO5T1A5IqvL8WZjl_EJ0WHqT-QCK6U22p83uXqm8Xu2MJp-v2WKiEzmdQO4VPfN1ZNOZkFihmP9LD5L06MpWHU_OcP-8-cxGObxcOyc3nZ66OCdM2H9fon4k7fUD_UH0awkMJkpgloJS7sqrvwATMgTImmYaPB_tsCjWDKnv1cyyFaSAfxK76aYMghnxu6FNwW4t7K64f-poK9GfZor_YmQuKDAGJYR7KQvL6w2LB6PBrSR4GYmaIdBmHwEbuTjR5ksLaGkHelRSSNcaZHktPeL3OdSEsK647YBLSIYDHmPEg3l1Mkp2Kdrvf7Zqkyx81loDCxY2yg53bvWAcNrEV3-rURFvLHthK2SopOAQV5HA2XqhpYrNlhJrDCZEsNWWELWUkWUSHV2PXDScxsi48QhtjpKKhil_Wx4XCA0zpMlYOoCeVemMF_cyztcQdV1xwktBJOhnSslHSMB_Frwq3Hctot3cvdEOoBGv0ZT-xu7XBNk-sgBmv0rcfv7x7ek7U01LbQgvdb30AbXIOVhn0HDAkZHaIpY9yA196D7qx07bynI61uQFcDVAUoYhD8k0Sti2IDRNljkh7RVWK7pQuMYxgxEV0YFOTHSpZgHsXjvnrraMyuGKdu89vctt-2dW7W6qOicrGvit-VjD-RN1Nfa-a65I4Y6IbGtqf3nX3o7vspOaD2b2U2J01oHinBxZ_03s01NMasXj_gFOZsdXZEDLW8J1IhipdwU0YPQSEI1LNSZPxXaby9T0dEfj06WaKxuGX4Alqb5Qo7f0L_RVXwgqCRKNLPbilHhKpkhd1uXnVHzP5Vx7nFuuPCG6xoMeYsEGXdd9pgFww0GIAEqCWV1LXdlc3QtMTDeAw.m3u8
-
-
-
-#EXTINF:-1 group-title="Dynamic ",star2
-https://video-weaver.maa01.hls.ttvnw.net/v1/playlist/Cq0F1mYbtBpPv_fYmUxUckpJptL4MBE3TlLe4Td5ySUyIcwIZUL2ktZ0YPj9CcZcMw50BELnsFtz_2KZcq6oujpAc36dQzWBZf4DWj4hZkoLx7fS3q_s1grERoLHhC6e7J-WcJL6ADqic3JoxRs8Bz4tCYNdSrtxrs5yWzXtfuB38-7t-qiFLaK7m1oQJpyO31-KqYqo6jKadTrzsW_bA4yaGqisS15OX5GAWZejdc98Bo4JubYqk7C3V3q1titC11j9dKO370YvkgOB8l3JBMdov4_cNX7KzTfV9zJCStFVpFAgfbuyzHHwTM8me3bIMOpY7ERsbLP8BgTmv14fpDvZF3L6tRqG6NXXlG_8JUdBpdDC_tprO8yKe5ueaS-hdwTJX2tGYNirxnrnllrY9_Tmfp-m9OXBTfYgmdfyXWP44Myoh4rI_iOnR69lBqpYUTChH9qH5xd9SsZYjqCticGnBQru6TMD_6-giM1Ra3HHBRc0fX53dYm6yhCIDxK_HSCatjcvQRaY-0E2TKbw9ELCi1iEgtJd0T03nSW-rjHIQLVFO-inLRxPFVAiWdAbjZfLvjmCGUblouh-dDtjvtn2rqrXSeP0Qk1vFnP7QaxUBvZ2eFpX_eYVjLGdDeLJYjavTeuTCMTgZ5Fmh6xjBcu4fmvMatfkHh_IILCJhIAoAcBS8FvicACPITvh3z0XQ6DhR-_Il0Jh4lzfXmCmR9P-sVAiz_381Q5JCQ6zDEXt_mh5QBFF5q1VepgA2WIIhGZ5PTbeejDm_NQYtnTJtjmRNm5uATClFLHSStfmji14HN8qg2Dsqgi8QUUetH9npqTSThdcBGiJD2ECzrOzVOcPl0n5LTZZqtGbRZblwk_HaYFKYCajWoVkiLiDB1hmqvau9TWVSwO-2_SnGn0lrRoMx8ITt51QuJv4r0yuIAEqCWV1LXdlc3QtMTDfAw.m3u8
