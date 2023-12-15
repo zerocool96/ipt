@@ -383,7 +383,7 @@ https://sh-worker.hellocool000.workers.dev/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Islamic-Live",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Sports",Sports
+#EXTINF:-1 tvg-logo="https://shorturl.at/ilAU8" group-title="Sports",Sports
 https://rpn3.bozztv.com/ssh101/ssh101/scrtm/chunks.m3u8?nimblesessionid=44333622
 
 #EXTINF:-1 group-title="Dynamic ",BbLive
