@@ -370,9 +370,6 @@ https://sh-worker.hellocool000.workers.dev/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/-h9VhuMtk9nFjIF9S37bSNca7S25umeK20mfzvPxwu4e47hiEq5NdHDSWRJHKZON0Y5lMkRt6w8=s176-c-k-c0x00ffffff-no-rj" group-title="Islamic-Live",Makkah Live HD
 https://sh-worker.hellocool000.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Islamic-Live",Makkah TV (576p)
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islamic-Live",Medina Live
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/playlist.m3u8
 https://sh-worker.hellocool000.workers.dev/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
@@ -386,17 +383,23 @@ https://sh-worker.hellocool000.workers.dev/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Islamic-Live",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Islamic-Live",Alquran (1080p)
-https://ktv.imamhussain.org/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Sports",Sports
+https://rpn3.bozztv.com/ssh101/ssh101/scrtm/chunks.m3u8?nimblesessionid=44333622
 
 #EXTINF:-1 group-title="Dynamic ",BbLive
 https://tamiltoonweb.com/BB7/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://shorturl.at/uIMT0" group-title="Movies",Dhoomam
+#EXTINF:0 tvg-logo="https://shorturl.at/uIMT0" group-title="Movies",Dhoomam-2023
 https://cdn32.vembz.one/h7tocpz3amlbu3tf6rvdlonr2abmcfo53zvwujvtl6kfl4m2obbzng3lwmfq/v.mp4?z4lopquk91e4?utm_source=HD720p
 
-#EXTINF:0 tvg-logo="https://shorturl.at/dntDG" group-title="Movies",Chithha
+#EXTINF:0 tvg-logo="https://shorturl.at/dntDG" group-title="Movies",Chithha-2023
 https://cdn108.vembz.one/h7tod3b3amlbu3tf6rvdln7v3br23n2i6isx45wjlqn3qlp7bumgrvlesw5q/v.mp4?tpdeene5jzba
 
 #EXTINF:0 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023
 https://cdn106.vembz.one/hls/h7todkb3amlbu3tf6rvdl5hgrwzaw63xfzuavdsmy2umzkabl25xjevishmq/index-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo="https://shorturl.at/e1345" group-title="Movies",Kida-2023
+https://cdn26.vembz.one/hls/h7todkj3amlbu3tf6rvdlopp3l3b22qgeyknqpnyrqdfjz72epwor2thhfna/index-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo="https://shorturl.at/nIL03" group-title="Movies",sesham-mike-il-fathima-2023
+https://cdn24.vembz.one/hls/h7tocvr2amlbu3tf6rvdljf4rtw5pwpuo7w5arji6m6x77ofrdtgx4xop5xq/index-v1-a1.m3u8
