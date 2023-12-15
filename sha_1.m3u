@@ -3,6 +3,27 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="Tamil-Local-HD",Colors Tamil (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/dxKNS" group-title="Tamil-Local-HD",SRV HD(1080p)
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155874&extension=ts&play_token=qPuR13SHMT
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/dxKNS" group-title="Tamil-Local",SRV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281855&extension=ts&play_token=wq6kbJENbU
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local-HD",SUN HD (1080p)
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155880&extension=ts&play_token=PdruQVIeeg
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local",SUN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=369375&extension=ts&play_token=kBcuwcOkVG
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Tamil-Local",SN Music
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155881&extension=ts&play_token=uOU1fkcqDC
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/lvUV0" group-title="Tamil-Local",Zee
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155876&extension=ts&play_token=rgDLJPGVOO
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/oqvEY" group-title="Tamil-Local",KTV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155882&extension=ts&play_token=3QuhYs5BBk
+
 #EXTINF:0 group-title="Tamil-Music" tvg-logo="https://i.imgur.com/WfAU7pB.png", 3 TAMIL HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
@@ -385,6 +406,31 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/ilAU8" group-title="Sports",Sports
 https://rpn3.bozztv.com/ssh101/ssh101/scrtm/chunks.m3u8?nimblesessionid=44333622
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/ilAU8" group-title="Sports",Sports2
+http://livetvbox.live:8080/live/Stanley/Stanley/9722.ts
+
+#EXTINF:-1 group-title="Kids",HUNGAMA KIDS
+http://livetvbox.live:8080/live/Stanley/Stanley/66162.ts
+
+#EXTINF:-1 group-title="Kids",HUNGAMA KIDS2
+http://starshare.live:8080/live/123456/654321/66162.ts
+
+#EXTINF:-1 group-title="Kids",POGO
+http://livetvbox.live:8080/live/Stanley/Stanley/66165.ts
+
+#EXTINF:-1,NAT GEO HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155884&extension=ts&play_token=29AX2emM8n
+
+#EXTINF:-1,NAT GEO WILD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155877&extension=ts&play_token=qiEp5DbiZf
+
+#EXTINF:-1,ANIMAL PLANET HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281983&extension=ts&play_token=UYy3W3Yrje
+
+#EXTINF:-1,ANIMAL PLANET
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=282679&extension=ts&play_token=NO2AJIcjLQ
+
 
 #EXTINF:-1 group-title="Dynamic ",BbLive
 https://tamiltoonweb.com/BB7/tracks-v1a1/mono.m3u8
