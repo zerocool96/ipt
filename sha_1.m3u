@@ -392,12 +392,11 @@ https://ktv.imamhussain.org/stream/hls/ch1.m3u8
 #EXTINF:-1 group-title="Dynamic ",BbLive
 https://tamiltoonweb.com/BB7/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Movies",Dhoomam
- https://cdn32.vembz.one/h7tocpz3amlbu3tf6rvdlonr2abmcfo53zvwujvtl6kfl4m2obbzng3lwmfq/v.mp4?z4lopquk91e4?utm_source=HD720p
+#EXTINF:0 tvg-logo="https://shorturl.at/uIMT0" group-title="Movies",Dhoomam
+https://cdn32.vembz.one/h7tocpz3amlbu3tf6rvdlonr2abmcfo53zvwujvtl6kfl4m2obbzng3lwmfq/v.mp4?z4lopquk91e4?utm_source=HD720p
 
-#EXTINF:0 group-title="Movies",Chithha
- https://cdn108.vembz.one/h7tod3b3amlbu3tf6rvdln7v3br23n2i6isx45wjlqn3qlp7bumgrvlesw5q/v.mp4?tpdeene5jzba
+#EXTINF:0 tvg-logo="https://shorturl.at/dntDG" group-title="Movies",Chithha
+https://cdn108.vembz.one/h7tod3b3amlbu3tf6rvdln7v3br23n2i6isx45wjlqn3qlp7bumgrvlesw5q/v.mp4?tpdeene5jzba
 
-#EXTINF:-1 group-title="Dynamic",Vijay 
-
-https://cdn.tamilultra.in/STAR_VIJAY/index.m3u8?token=1f12055511f0ba77fbf1a362b7308b324949d500-9d8106a9ee1aa715973afa2d2a1117f6-1702570924-1702569124
+#EXTINF:0 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023
+https://cdn106.vembz.one/hls/h7todkb3amlbu3tf6rvdl5hgrwzaw63xfzuavdsmy2umzkabl25xjevishmq/index-v1-a1.m3u8
