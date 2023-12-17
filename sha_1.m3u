@@ -423,17 +423,20 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281850&exte
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc37rxa2" group-title="Wild Discoveries",SONY BBC EARTH
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155885&extension=ts&play_token=An9vg304QX
 
-#EXTINF:0 tvg-logo="https://shorturl.at/uIMT0" group-title="Movies",Dhoomam-2023
+#EXTINF:0 tvg-logo="https://shorturl.at/uIMT0" group-title="Movies",Dhoomam-2023 (IMDb: 5.5)
 https://cdn32.vembz.one/h7tocpz3amlbu3tf6rvdlonr2abmcfo53zvwujvtl6kfl4m2obbzng3lwmfq/v.mp4?z4lopquk91e4?utm_source=HD720p
 
-#EXTINF:0 tvg-logo="https://shorturl.at/dntDG" group-title="Movies",Chithha-2023
+#EXTINF:0 tvg-logo="https://shorturl.at/dntDG" group-title="Movies",Chithha-2023 (IMDb: 8.3)
 https://cdn108.vembz.one/h7tod3b3amlbu3tf6rvdln7v3br23n2i6isx45wjlqn3qlp7bumgrvlesw5q/v.mp4?tpdeene5jzba
 
-#EXTINF:0 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023
+#EXTINF:0 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023 (IMDb: 3.2)
 https://cdn106.vembz.one/hls/h7todkb3amlbu3tf6rvdl5hgrwzaw63xfzuavdsmy2umzkabl25xjevishmq/index-v1-a1.m3u8
 
-#EXTINF:0 tvg-logo="https://shorturl.at/e1345" group-title="Movies",Kida-2023
-https://cdn26.vembz.one/hls/h7todkj3amlbu3tf6rvdlopp3l3b22qgeyknqpnyrqdfjz72epwor2thhfna/index-v1-a1.m3u8
-
-#EXTINF:0 tvg-logo="https://shorturl.at/nIL03" group-title="Movies",sesham-mike-il-fathima-2023
+#EXTINF:0 tvg-logo="https://shorturl.at/nIL03" group-title="Movies",sesham-mike-il-fathima-2023 (IMDb: 6.6)
 https://cdn24.vembz.one/hls/h7tocvr2amlbu3tf6rvdljf4rtw5pwpuo7w5arji6m6x77ofrdtgx4xop5xq/index-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo="https://shorturl.at/nq156" group-title="Movies",Garudan-2023 (IMDb: 7.4)
+https://n7dcw2svfzf7.enaak-cdn.com/hls2/01/00932/qrvqzdkacqf0_n/index-v1-a1.m3u8?t=oPFwhBgGecUb6p-qLzsDnTtYUgqss0iuwkZW8NVitsM&s=1702799253&e=129600&f=4661184&srv=zsj58h0kleij&i=0.4&sp=1500&p1=zsj58h0kleij&p2=zsj58h0kleij&asn=17465
+
+#EXTINF:0 tvg-logo="https://shorturl.at/uNXY8" group-title="Movies",Label(E1-3)(IMDb: 7.2)
+https://j87wrsp3nydp.sw-cdnstream.com/hls2/01/02245/,n3yekuwla1o4_n,lang/eng/n3yekuwla1o4_eng,.urlset/index-f2.m3u8?t=AYEoQK6JUAZ3C5rGeV62-cXS3hnnjTK7F1o0QlPeimc&s=1702807912&e=129600&f=11226069&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=17465
