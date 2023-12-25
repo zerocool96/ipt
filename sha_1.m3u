@@ -4,25 +4,44 @@
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/dxKNS" group-title="Tamil-Local-HD",SRV HD(1080p)
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155874&extension=ts&play_token=qPuR13SHMT
+http://go.justflix.tv:80/2245356388/2245356388/296
+http://go.justflix.tv:80/2245356388/2245356388/298
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/dxKNS" group-title="Tamil-Local",SRV
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281855&extension=ts&play_token=wq6kbJENbU
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local-HD",SUN HD (1080p)
+#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local-HD",SUN HD
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155880&extension=ts&play_token=PdruQVIeeg
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local",SUN
+#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local-HD",SUN HD -1
+http://go.justflix.tv:80/2245356388/2245356388/237
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local",SUN UK
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=369375&extension=ts&play_token=kBcuwcOkVG
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Tamil-Local",SN Music
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155881&extension=ts&play_token=uOU1fkcqDC
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Tamil-Local",SN Music -1
+http://go.justflix.tv:80/2245356388/2245356388/295
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/lvUV0" group-title="Tamil-Local",Zee
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155876&extension=ts&play_token=rgDLJPGVOO
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/lvUV0" group-title="Tamil-Local",Zee -1
+http://go.justflix.tv:80/2245356388/2245356388/287
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/oqvEY" group-title="Tamil-Local",KTV
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155882&extension=ts&play_token=3QuhYs5BBk
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/oqvEY" group-title="Tamil-Local",KTV -1
+http://go.justflix.tv:80/2245356388/2245356388/203
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/oqvEY" group-title="Tamil-Local",KTV USA
+http://go.justflix.tv:80/2245356388/2245356388/270
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/bALTW" group-title="Tamil-Local",Zee thirai
+http://go.justflix.tv:80/2245356388/2245356388/703
 
 #EXTINF:0 group-title="Tamil-Music" tvg-logo="https://i.imgur.com/WfAU7pB.png", 3 TAMIL HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -30,8 +49,11 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:0 tvg-logo="https://shorturl.at/dlBG9" group-title="Tamil-Local-HD",Chennai Tv
 http://notvstream.in/chennaiitv/chennaiitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/267azd6w" group-title="Tamil-Local-HD",ADHTIYA TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/267azd6w" group-title="Tamil-Local-HD",ADHTIYA 
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155892&extension=ts&play_token=QDp5hLeSyH
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/267azd6w" group-title="Tamil-Local-HD",ADHTIYA -1
+http://go.justflix.tv:80/2245356388/2245356388/286
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Tamil-Local",7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
@@ -44,9 +66,6 @@ http://singamcloud.in/purpletv/purpletv/index.m3u8
 
 #EXTINF:0 group-title="Tamil-Local-HD" tvg-logo="http://bit.ly/3rnQ9Lm", JAWAHAR TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://shorturl.at/ltvW9" group-title="Tamil-Local",Rasi Tv
-http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/chunklist_w323305535.m3u8
 
 #EXTINF:0, group-title="Tamil-Local-HD" tvg-logo="http://www.tamilvision.tv/image/logo.png",TAMIL VISION TV
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
@@ -121,6 +140,9 @@ https://server.iptelevision.in/hls/vanaviltv.m3u8
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-News",Puthiya thalaimurai News
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://shorturl.at/biNPV" group-title="Tamil-News",News 7 
+http://go.justflix.tv:80/2245356388/2245356388/279
+
 #EXTINF:0 tvg-logo="https://www.kikkidu.com/wp-content/uploads/2010/08/tv.jpg" group-title="Tamil-Local",JCV Tv
 http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
 
@@ -135,6 +157,9 @@ http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Tamil-Local",MK music
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
+
+#EXTINF:-1 group-title="Tamil-Local",St music
+http://go.justflix.tv:80/2245356388/2245356388/293
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="Tamil-Local-HD",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -400,6 +425,9 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155897&exte
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155896&extension=ts&play_token=nAmACGjAxH
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/ilsuw" group-title="Wild Discoveries",NAT GEO HD
+http://go.justflix.tv:80/2245356388/2245356388/276
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/ilsuw" group-title="Wild Discoveries",NAT GEO HD -1
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155884&extension=ts&play_token=29AX2emM8n
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/eJNQ7" group-title="Wild Discoveries",NAT GEO WILD
@@ -420,23 +448,23 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155879&exte
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yeyn46kv" group-title="Wild Discoveries",DISCOVERY
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281850&extension=ts&play_token=PEqCJ2svr7
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yeyn46kv" group-title="Wild Discoveries",DISCOVERY -1
+http://go.justflix.tv:80/2245356388/2245356388/278
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc37rxa2" group-title="Wild Discoveries",SONY BBC EARTH
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155885&extension=ts&play_token=An9vg304QX
 
-#EXTINF:0 tvg-logo="https://shorturl.at/uIMT0" group-title="Movies",Dhoomam-2023 (IMDb: 5.5)
-https://cdn32.vembz.one/h7tocpz3amlbu3tf6rvdlonr2abmcfo53zvwujvtl6kfl4m2obbzng3lwmfq/v.mp4?z4lopquk91e4?utm_source=HD720p
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc37rxa2" group-title="Wild Discoveries",SONY BBC EARTH -1
+http://go.justflix.tv:80/2245356388/2245356388/277
 
-#EXTINF:0 tvg-logo="https://shorturl.at/dntDG" group-title="Movies",Chithha-2023 (IMDb: 8.3)
-https://cdn108.vembz.one/h7tod3b3amlbu3tf6rvdln7v3br23n2i6isx45wjlqn3qlp7bumgrvlesw5q/v.mp4?tpdeene5jzba
+#EXTINF:-1 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023 
+https://player.mrfooll.xyz/506216/vaathala.mkv?hash=AgADYB
 
-#EXTINF:0 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023 (IMDb: 3.2)
-https://cdn106.vembz.one/hls/h7todkb3amlbu3tf6rvdl5hgrwzaw63xfzuavdsmy2umzkabl25xjevishmq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/dgkBY" group-title="Tamil",The Moon-2023
+https://player.mrfooll.xyz/499579/vaathala.mkv?hash=AgADPA
 
-#EXTINF:0 tvg-logo="https://shorturl.at/nIL03" group-title="Movies",sesham-mike-il-fathima-2023 (IMDb: 6.6)
-https://cdn24.vembz.one/hls/h7tocvr2amlbu3tf6rvdljf4rtw5pwpuo7w5arji6m6x77ofrdtgx4xop5xq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://rb.gy/su201y" group-title="Tamil",Gadar 2-2023
+https://player.mrfooll.xyz/458530/vaathala.mkv?hash=AgADgR
 
-#EXTINF:0 tvg-logo="https://shorturl.at/nq156" group-title="Movies",Garudan-2023 (IMDb: 7.4)
-https://n7dcw2svfzf7.enaak-cdn.com/hls2/01/00932/qrvqzdkacqf0_n/index-v1-a1.m3u8?t=oPFwhBgGecUb6p-qLzsDnTtYUgqss0iuwkZW8NVitsM&s=1702799253&e=129600&f=4661184&srv=zsj58h0kleij&i=0.4&sp=1500&p1=zsj58h0kleij&p2=zsj58h0kleij&asn=17465
-
-#EXTINF:0 tvg-logo="https://shorturl.at/uNXY8" group-title="Movies",Label(E1-3)(IMDb: 7.2)
-https://j87wrsp3nydp.sw-cdnstream.com/hls2/01/02245/,n3yekuwla1o4_n,lang/eng/n3yekuwla1o4_eng,.urlset/index-f2.m3u8?t=AYEoQK6JUAZ3C5rGeV62-cXS3hnnjTK7F1o0QlPeimc&s=1702807912&e=129600&f=11226069&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=17465
+#EXTINF:-1 tvg-logo="https://shorturl.at/imtx7" group-title="Tamil",Dhootha-2023
+https://player.mrfooll.xyz/453545/vaathala.mkv?hash=AgAD_R
