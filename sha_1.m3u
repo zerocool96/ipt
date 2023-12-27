@@ -5,7 +5,6 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallb
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/dxKNS" group-title="Tamil-Local-HD",SRV HD(1080p)
 http://go.justflix.tv:80/2245356388/2245356388/296
-http://go.justflix.tv:80/2245356388/2245356388/298
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/dxKNS" group-title="Tamil-Local",SRV
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281855&extension=ts&play_token=wq6kbJENbU
@@ -21,10 +20,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=369375&exte
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Tamil-Local",SN Music
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155881&extension=ts&play_token=uOU1fkcqDC
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Tamil-Local",SN Music -1
-http://go.justflix.tv:80/2245356388/2245356388/295
-
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/lvUV0" group-title="Tamil-Local",Zee
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155876&extension=ts&play_token=rgDLJPGVOO
 
@@ -239,10 +235,7 @@ http://103.98.62.134:8080/gtv/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="Tamil-Local",G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
-
-#EXTINF:-1,Vmuisk TV
-https://server.iptelevision.in/hls/vmuisk.m3u8
-
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="Tamil-Local",Sai TV
 https://sscloud7.com/hls/saitv.m3u8
 
@@ -460,11 +453,11 @@ http://go.justflix.tv:80/2245356388/2245356388/277
 #EXTINF:-1 tvg-logo="https://shorturl.at/zD049" group-title="Movies",japan-2023 
 https://player.mrfooll.xyz/506216/vaathala.mkv?hash=AgADYB
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/dgkBY" group-title="Tamil",The Moon-2023
+#EXTINF:-1 tvg-logo="https://shorturl.at/dgkBY" group-title="Movies",The Moon-2023
 https://player.mrfooll.xyz/499579/vaathala.mkv?hash=AgADPA
 
-#EXTINF:-1 tvg-logo="https://rb.gy/su201y" group-title="Tamil",Gadar 2-2023
+#EXTINF:-1 tvg-logo="https://rb.gy/su201y" group-title="Movies",Gadar 2-2023
 https://player.mrfooll.xyz/458530/vaathala.mkv?hash=AgADgR
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/imtx7" group-title="Tamil",Dhootha-2023
+#EXTINF:-1 tvg-logo="https://shorturl.at/imtx7" group-title="Movies",Dhootha-2023
 https://player.mrfooll.xyz/453545/vaathala.mkv?hash=AgAD_R
