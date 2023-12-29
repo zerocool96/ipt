@@ -461,3 +461,15 @@ https://player.mrfooll.xyz/458530/vaathala.mkv?hash=AgADgR
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/imtx7" group-title="Movies",Dhootha-2023
 https://player.mrfooll.xyz/453545/vaathala.mkv?hash=AgAD_R
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",800
+https://media.newtamilmovies.in/800.mp4
+
+#EXTINF:-1 tvg-logo=" " group-title="Movies",Label_01_06
+https://media.newtamilmovies.in/Label_01_06.mp4
+
+#EXTINF:-1 tvg-logo=" " group-title="Movies",Dhoomam
+https://media.newtamilmovies.in/Dhoomam.mp4
+
+#EXTINF:-1 tvg-logo=" " group-title="Movies",Chithha
+https://media.newtamilmovies.in/Chithha.mp4
