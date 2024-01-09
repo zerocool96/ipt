@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKawboS-hjxUswWsl96XftTuRZOpVEdrCytV9mCtzkk=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News",Polimer News
 https://sh-worker.hellocool000.workers.dev/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
+#EXTINF:0 tvg-logo="https://shorturl.at/biNPV" group-title="Tamil-News",News 7 
+http://go.justflix.tv:80/2245356388/2245356388/279
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZkR1wnKbj_7yMdzKPCt6UAocoybP34RdqnhRBWpA=s176-c-k-c0x00ffffff-no-rj" group-title="Tamil-News", Sun News
 https://sh-worker.hellocool000.workers.dev/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 
