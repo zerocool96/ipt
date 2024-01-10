@@ -7,7 +7,8 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallb
 http://go.justflix.tv:80/2245356388/2245356388/296
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Tamil-Local",SUN HD
-http://go.justflix.tv:80/2245356388/2245356388/237
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155880&extension=ts&play_token=PdruQVIeeg
+
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Tamil-Local",SN Music
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155881&extension=ts&play_token=uOU1fkcqDC
@@ -422,7 +423,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155876&exte
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281855&extension=ts&play_token=wq6kbJENbU
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/vDMV7" group-title="Sec Servers",SUN
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155880&extension=ts&play_token=PdruQVIeeg
+http://go.justflix.tv:80/2245356388/2245356388/237
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/oqvEY" group-title="Sec Servers",KTV
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155882&extension=ts&play_token=3QuhYs5BBk
