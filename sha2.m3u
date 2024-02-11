@@ -258,7 +258,7 @@ http://tgaadi-web.tech/Aadi.php?id=12154
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155873&extension=ts
 
-#EXTINF:-1 tvg-id="1023" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" group-title="Tamil", ADHTIYA TV
+#EXTINF:-1 tvg-id="1023" tvg-logo="https://tinyurl.com/267azd6w" group-title="Tamil", ADHTIYA TV
 http://tgaadi-web.tech/Aadi.php?id=1106
 
 
@@ -606,7 +606,7 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manife
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=367
-#EXTINF:-1 tvg-id="367" tvg-logo="https://tatalogo.pages.dev/367.png" group-title="Lifestyle",FOX Life HD
+#EXTINF:-1 tvg-id="367" tvg-logo="https://tatalogo.pages.dev/367.png" group-title="Knowledge",FOX Life HD
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
