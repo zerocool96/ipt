@@ -390,49 +390,49 @@ https://delta31tatasky.akamaized.net/out/i/29273.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=87
-#EXTINF:-1 tvg-id="87" tvg-logo="https://tatalogo.pages.dev/87.png"group-title="News",Manorama News
+#EXTINF:-1 tvg-id="87" tvg-logo="https://tatalogo.pages.dev/87.png" group-title="News",Manorama News
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=532
-#EXTINF:-1 tvg-id="532" tvg-logo="https://tatalogo.pages.dev/532.png"group-title="News",Asianet News
+#EXTINF:-1 tvg-id="532" tvg-logo="https://tatalogo.pages.dev/532.png" group-title="News",Asianet News
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=66
-#EXTINF:-1 tvg-id="66" tvg-logo="https://tatalogo.pages.dev/66.png"group-title="News",News18 Kerala
+#EXTINF:-1 tvg-id="66" tvg-logo="https://tatalogo.pages.dev/66.png" group-title="News",News18 Kerala
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=394
-#EXTINF:-1 tvg-id="394" tvg-logo="https://tatalogo.pages.dev/394.png"group-title="News",Mathrubhumi News
+#EXTINF:-1 tvg-id="394" tvg-logo="https://tatalogo.pages.dev/394.png" group-title="News",Mathrubhumi News
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=211
-#EXTINF:-1 tvg-id="211" tvg-logo="https://tatalogo.pages.dev/211.png"group-title="News",Kairali News
+#EXTINF:-1 tvg-id="211" tvg-logo="https://tatalogo.pages.dev/211.png" group-title="News",Kairali News
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_323/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=576
-#EXTINF:-1 tvg-id="576" tvg-logo="https://tatalogo.pages.dev/576.png"group-title="News",Media One
+#EXTINF:-1 tvg-id="576" tvg-logo="https://tatalogo.pages.dev/576.png" group-title="News",Media One
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=270
-#EXTINF:-1 tvg-id="270" tvg-logo="https://tatalogo.pages.dev/270.png"group-title="News",Janam TV
+#EXTINF:-1 tvg-id="270" tvg-logo="https://tatalogo.pages.dev/270.png" group-title="News",Janam TV
 https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=428
-#EXTINF:-1 tvg-id="428" tvg-logo="https://tatalogo.pages.dev/428.png"group-title="News",Raj News Malayalam
+#EXTINF:-1 tvg-id="428" tvg-logo="https://tatalogo.pages.dev/428.png" group-title="News",Raj News Malayalam
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_689/output/manifest.mpd
 
 
@@ -444,19 +444,19 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/manif
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=377
-#EXTINF:-1 tvg-id="377" tvg-logo="https://tatalogo.pages.dev/377.png"group-title="News",Kappa TV
+#EXTINF:-1 tvg-id="377" tvg-logo="https://tatalogo.pages.dev/377.png" group-title="News",Kappa TV
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_593/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=799
-#EXTINF:-1 tvg-id="799" tvg-logo="https://tatalogo.pages.dev/799.png"group-title="News",Twenty Four
+#EXTINF:-1 tvg-id="799" tvg-logo="https://tatalogo.pages.dev/799.png" group-title="News",Twenty Four
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=378
-#EXTINF:-1 tvg-id="378" tvg-logo="https://tatalogo.pages.dev/378.png"group-title="News",Kaumudy TV
+#EXTINF:-1 tvg-id="378" tvg-logo="https://tatalogo.pages.dev/378.png" group-title="News",Kaumudy TV
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
