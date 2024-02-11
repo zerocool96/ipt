@@ -21,10 +21,9 @@ https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manife
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=257
-#EXTINF:-1 tvg-id="257" tvg-logo="https://tatalogo.pages.dev/257.png" group-title="Tamil",Zee Tamil
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=608
+#EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=674
