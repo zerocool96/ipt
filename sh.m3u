@@ -38,7 +38,10 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manife
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil HD
-http://go.justflix.tv:80/2245356388/2245356388/287
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100169
+
+#EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil SD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100170
 
 #EXTINF:-1 tvg-id="1182" tvg-logo="https://tatalogo.pages.dev/1182.png" group-title="Tamil",Zee Thirai HD
 http://tgaadi-web.tech/Tg_aadi.php?id=9938
@@ -148,6 +151,16 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manife
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=968
+#EXTINF:-1 tvg-id="968" tvg-logo="https://tatalogo.pages.dev/968.png" group-title="News",News Tamil 24x7
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=391
+#EXTINF:-1 tvg-id="391" tvg-logo="https://tatalogo.pages.dev/391.png" group-title="News",MalaiMurasu Seithigal
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=220
 #EXTINF:-1 tvg-id="220" tvg-logo="https://tatalogo.pages.dev/220.png" group-title="News",Puthiya Thalaimurai
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifest.mpd
@@ -176,26 +189,6 @@ https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manife
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=58
 #EXTINF:-1 tvg-id="58" tvg-logo="https://tatalogo.pages.dev/58.png" group-title="News",News18 Tamil Nadu
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=702
-#EXTINF:-1 tvg-id="702" tvg-logo="https://tatalogo.pages.dev/702.png" group-title="News",News J
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=455
-#EXTINF:-1 tvg-id="455" tvg-logo="https://tatalogo.pages.dev/455.png" group-title="News",Sathiyam TV
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=968
-#EXTINF:-1 tvg-id="968" tvg-logo="https://tatalogo.pages.dev/968.png" group-title="News",News Tamil 24x7
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=391
-#EXTINF:-1 tvg-id="391" tvg-logo="https://tatalogo.pages.dev/391.png" group-title="News",MalaiMurasu Seithigal
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=525
