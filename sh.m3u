@@ -30,7 +30,7 @@ https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manife
 #EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100169
 
-#EXTINF:-1 tvg-id="1182" tvg-logo="https://tatalogo.pages.dev/1182.png" group-title="Movies",Zee Thirai HD
+#EXTINF:-1 tvg-id="1182" tvg-logo="https://tatalogo.pages.dev/1182.png" group-title="Tamil",Zee Thirai HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100171
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,6 +113,15 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/manife
 #EXTINF:-1 tvg-id="444" tvg-logo="https://tatalogo.pages.dev/444.png" group-title="Tamil",Travelxp Tamil
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
 
+#EXTINF:-1 tvg-id="ts49" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Music",Sun Music
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
+
+
+#EXTINF:-1 tvg-id="ts49" tvg-logo="https://shorturl.at/amtZ8" group-title="Tamil",Vijay Super HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100167
+
+#EXTINF:-1 tvg-id="1023" tvg-logo="https://tinyurl.com/267azd6w" group-title="Tamil", ADHTIYA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=968
@@ -208,8 +217,6 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manife
 #EXTINF:-1 tvg-id="294" tvg-logo="https://tatalogo.pages.dev/294.png" group-title="Malayalam",Asianet Plus
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=395
 #EXTINF:-1 tvg-id="395" tvg-logo="https://tatalogo.pages.dev/395.png" group-title="Malayalam",Mazhavil Manorama HD
@@ -234,24 +241,20 @@ https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manife
 #EXTINF:-1 tvg-id="25" tvg-logo="https://tatalogo.pages.dev/25.png" group-title="Malayalam",Kairali TV
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=553
 #EXTINF:-1 tvg-id="553" tvg-logo="https://tatalogo.pages.dev/553.png" group-title="Malayalam",We TV
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=229
 #EXTINF:-1 tvg-id="229" tvg-logo="https://tatalogo.pages.dev/229.png" group-title="Malayalam",Surya Movies
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=178
 #EXTINF:-1 tvg-id="178" tvg-logo="https://tatalogo.pages.dev/178.png" group-title="Malayalam",Amrita TV
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=293
@@ -263,30 +266,25 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manife
 #EXTINF:-1 tvg-id="953" tvg-logo="https://tatalogo.pages.dev/953.png" group-title="Malayalam",Asianet Plus
 https://delta43tatasky.akamaized.net/out/i/2034251.mpd?begin=20240227T060000&end=20240306T060000
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=933
 #EXTINF:-1 tvg-id="933" tvg-logo="https://tatalogo.pages.dev/933.png" group-title="Malayalam",Asianet Movies
 https://delta31tatasky.akamaized.net/out/i/29273.mpd?begin=20240227T060000&end=20240306T060000
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=87
 #EXTINF:-1 tvg-id="87" tvg-logo="https://tatalogo.pages.dev/87.png" group-title="News",Manorama News
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=532
 #EXTINF:-1 tvg-id="532" tvg-logo="https://tatalogo.pages.dev/532.png" group-title="News",Asianet News
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=66
 #EXTINF:-1 tvg-id="66" tvg-logo="https://tatalogo.pages.dev/66.png" group-title="News",News18 Kerala
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd?begin=20240227T060000&end=20240306T060000
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=394
@@ -344,3 +342,32 @@ https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manife
 
 #EXTINF:-1 tvg-id="694" tvg-logo="https://tatalogo.pages.dev/694.png" group-title="Malayalam",Zee Keralam HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93599
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/ilsuw" group-title="Knowledge",NAT GEO HD
+http://go.justflix.tv:80/2245356388/2245356388/276
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100135
+
+#EXTINF:-1 tvg-id="542" tvg-logo="https://tatalogo.pages.dev/341.png" group-title="Knowledge",DISCOVERY WORLD HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155879&extension=ts&play_token=99zlsFEHyz
+
+#EXTINF:-1 tvg-id="683" tvg-logo="https://tatalogo.pages.dev/172.png" group-title="Knowledge",HISTORY TV 18 HD TAMIL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155886&extension=ts&play_token=XEYRXowarW
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100116
+
+#EXTINF:-1 tvg-id="660" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="Knowledge",NAT GEO WILD TAMIL HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155877&extension=ts&play_token=qiEp5DbiZf
+
+#EXTINF:-1 tvg-id="9101" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="Knowledge",ANIMAL PLANET TAMIL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281983&extension=ts&play_token=UYy3W3Yrje
+
+#EXTINF:-1 tvg-id="702" tvg-logo="https://tatalogo.pages.dev/460.png" group-title="Knowledge",SONY BBC EARTH HD
+http://go.justflix.tv:80/2245356388/2245356388/277
+
+#EXTINF:-1 tvg-id="763" tvg-logo="https://tinyurl.com/447rpkzw" group-title="Kids", CHUTTI TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100108
+
+#EXTINF:-1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100112
+
+#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Tamil",KTV HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100125
