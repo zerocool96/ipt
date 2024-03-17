@@ -141,6 +141,12 @@ https://rftv.wtf/tp/tplay.mpd?contentID=444
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=968&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="News",News Tamil 24x7
+https://rftv.wtf/tp/tplay.mpd?contentID=968
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=220&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png" group-title="News",Puthiya Thalaimurai
 https://rftv.wtf/tp/tplay.mpd?contentID=220
@@ -207,11 +213,6 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifes
 https://rftv.wtf/tp/tplay.mpd?contentID=702
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=968&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="News",News Tamil 24x7
-https://rftv.wtf/tp/tplay.mpd?contentID=968
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=334&key
@@ -243,9 +244,6 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifes
 https://rftv.wtf/tp/tplay.mpd?contentID=400
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/ilsuw" group-title="Knowledge",NAT GEO HD
-http://go.justflix.tv:80/2245356388/2245356388/276
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100135
 
 #EXTINF:-1 tvg-id="542" tvg-logo="https://tatalogo.pages.dev/341.png" group-title="Knowledge",DISCOVERY WORLD HD
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155879&extension=ts&play_token=99zlsFEHyz
@@ -260,14 +258,3 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155877&exte
 #EXTINF:-1 tvg-id="9101" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="Knowledge",ANIMAL PLANET TAMIL
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281983&extension=ts&play_token=UYy3W3Yrje
 
-#EXTINF:-1 tvg-id="702" tvg-logo="https://tatalogo.pages.dev/460.png" group-title="Knowledge",SONY BBC EARTH HD
-http://go.justflix.tv:80/2245356388/2245356388/277
-
-#EXTINF:-1 tvg-id="763" tvg-logo="https://tinyurl.com/447rpkzw" group-title="Kids", CHUTTI TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100108
-
-#EXTINF:-1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100112
-
-#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Tamil",KTV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100125
