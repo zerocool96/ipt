@@ -256,3 +256,18 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155877&exte
 #EXTINF:-1 tvg-id="9101" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="Knowledge",ANIMAL PLANET TAMIL
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281983&extension=ts&play_token=UYy3W3Yrje
 
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Tamil 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/41d6a16977e942e8ae41cba1ae182a69/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Star Sports 1 Tamil
+http://sansat.net:88/02048081503032/02048081503032/93731
+
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="Sports",Star Sports 1 Tamil Multi Quality
+https://vsd136.mycdn.me/hls/6165377649189.m3u8/sig/U6bBLkjr4BM/expires/1711893139534/srcIp/42.106.177.199/urls/45.136.20.88/clientType/36/srcAg/CHROME_ANDROID/mid/7581895706405/6165377649189/video.m3u8?p
+
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",English 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8
