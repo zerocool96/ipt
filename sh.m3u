@@ -9,8 +9,12 @@
 https://rftv.wtf/tp/tplay.mpd?contentID=521
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
 
+0501
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
 http://tgaadi-web.tech/api/dhoom.php?tv=11431
+
+0633
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=608&key
@@ -18,11 +22,15 @@ http://tgaadi-web.tech/api/dhoom.php?tv=11431
 https://rftv.wtf/tp/tplay.mpd?contentID=608
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd
 
+0271
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=257&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png" group-title="Tamil",Zee Tamil
 https://rftv.wtf/tp/tplay.mpd?contentID=257
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd
+
+0713
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=674&key
@@ -30,11 +38,15 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifes
 https://rftv.wtf/tp/tplay.mpd?contentID=674
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd
 
+0438
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=418&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Tamil",Colors Tamil
 https://rftv.wtf/tp/tplay.mpd?contentID=418
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd
+
+0438
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=611&key
@@ -42,12 +54,7 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifes
 https://rftv.wtf/tp/tplay.mpd?contentID=611
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=272&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png" group-title="Tamil",Polimer TV
-https://rftv.wtf/tp/tplay.mpd?contentID=272
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd
+0286
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=392&key
