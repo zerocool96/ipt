@@ -3,6 +3,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 
+0542
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=521&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",Sun TV HD
@@ -224,6 +226,12 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifes
 https://rftv.wtf/tp/tplay.mpd?contentID=647
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/fAGLW" group-title="Music",SN Music
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155881&extension=ts&play_token=uOU1fkcqDC
+
+#EXTINF:0 group-title="Music" tvg-logo="https://i.imgur.com/WfAU7pB.png", 3 TAMIL HD
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=400&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Music",Mega Musiq
@@ -403,16 +411,9 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155877&exte
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281983&extension=ts&play_token=UYy3W3Yrje
 
 #EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Tamil 4K
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1130424/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109681/uhd_akamai_atv_avc_tam_ipl_s2_m2140424/master.m3u8
 
 #EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",English 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1130424/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/uhd_akamai_atv_avc_eng_ipl_s2_m2140424/master.m3u8
 
-#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",English (ads free)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1130424/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="JioCinema Cricket 1" tvg-logo="https://watchindia.net/images/channels/sports/Tata_IPL.png" group-title="IPL 2024",JioCinema Cricket 1
-http://watchindia.net:8880/live/69354/82115/2492.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="JioCinema Cricket 2" tvg-logo="https://watchindia.net/images/channels/sports/Tata_IPL.png" group-title="IPL 2024",JioCinema Cricket 2
-http://watchindia.net:8880/live/69354/82115/2614.ts
