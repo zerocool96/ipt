@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "name": "AppDB",
+      "url": "https://appdb.to/?compatibility=ios",
+      "type": "repository",
+      "description": "AppDB for iOS compatibility",
+      "author": "AppDB",
+      "contact": "support@appdb.to"
+    }
+  ]
+}
